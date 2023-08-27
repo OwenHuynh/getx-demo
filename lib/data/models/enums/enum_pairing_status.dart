@@ -1,0 +1,1 @@
+enum EnumPairingStatus { CONNECTED, CONNECTING, DISCONNECTED }

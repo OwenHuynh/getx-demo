@@ -1,0 +1,1 @@
+enum EnumStampingStatus { START, END }
